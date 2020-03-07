@@ -8,8 +8,8 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Auto build
-        </p>
+          Auto build edit
+        </p> 
         <a
           className="App-link"
           href="https://reactjs.org"
